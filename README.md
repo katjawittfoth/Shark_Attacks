@@ -3,6 +3,12 @@ Data Visualization Final Project: Shark Attack Data
 # How dangerous are sharks and is all the fear people have justified?
 I'm analyzing shark attacks data from [Global Shark Attack File](http://www.sharkattackfile.net/)
 
+#### See full story with many more various plots and cool visuals:
+* [Notebook with interrective Plotly visuals and code](https://github.com/katjawittfoth/Data_Viz/blob/master/global_shark_attacks.ipynb)
+
+* [Analysis](https://github.com/katjawittfoth/Data_Viz/blob/master/shark_attacks_story.pdf)
+
+# Teaser
 Most people are afraid of sharks, and there's a misconception that if you are in the water with them you are in deep trouble. The idea that sharks are killing machines preying on humans is a myth that I learned to overcome after I became an avid scuba diver. I’m often diving in the murky waters of Northern California, which is famous for its large population of White Sharks, so I wanted to learn more about real risks.
 
 <p align="center"> <img src="plots/scatterplot_attacks_1900-2017.png" align="middle">
@@ -21,8 +27,3 @@ Surfing in the USA and Australia seems to be by far the most dangerous activity.
 Another interesting fact is that sharks are getting confused and overwhelmed by a present of dead fish, thus a large number of shark attacks are happening when people are fishing and spearfishing.
 
 ...
-
-#### See full story with many more various plots and cool visuals:
-* [Notebook with interrective Plotly visuals and code](https://github.com/katjawittfoth/Data_Viz/blob/master/global_shark_attacks.ipynb)
-
-* [Analysis](https://github.com/katjawittfoth/Data_Viz/blob/master/shark_attacks_story.pdf)
