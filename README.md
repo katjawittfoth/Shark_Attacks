@@ -4,7 +4,7 @@ Data Visualization Final Project: Shark Attack Data
 I'm analyzing shark attacks data from [Global Shark Attack File](http://www.sharkattackfile.net/)
 
 #### See full story with many more various plots and cool visuals:
-* [Notebook with interrective Plotly visuals and code](https://github.com/katjawittfoth/Data_Viz/blob/master/global_shark_attacks.ipynb)
+* [Notebook with interactive Plotly charts and code](https://github.com/katjawittfoth/Data_Viz/blob/master/global_shark_attacks.ipynb)
 
 * [Analysis](https://github.com/katjawittfoth/Data_Viz/blob/master/shark_attacks_story.pdf)
 
