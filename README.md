@@ -26,7 +26,7 @@ Not true! Obviously, humans are not part of sharks’ diet and the attacks happe
 Surfing in the USA and Australia seems to be by far the most dangerous activity. Sharks often mistake surfers or humans splashing in the water for prey. 
 Another interesting fact is that sharks are getting confused and overwhelmed by a present of dead fish, thus a large number of shark attacks are happening when people are fishing and spearfishing.
 
-<p align="center"> <img src="Notebooks/plots/sealion_vs_surfer.png" align="middle" width=100>
+<p align="center"> <img src="Notebooks/plots/sealion_vs_surfer.png" align="middle" width=300>
 </p>
 ...
-* [More plots in my Notebook](https://github.com/katjawittfoth/Data_Viz/blob/master/global_shark_attacks.ipynb)
+[More plots in my Notebook](https://github.com/katjawittfoth/Data_Viz/blob/master/global_shark_attacks.ipynb)
