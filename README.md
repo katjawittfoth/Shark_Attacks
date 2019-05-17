@@ -28,5 +28,5 @@ Another interesting fact is that sharks are getting confused and overwhelmed by 
 
 <p align="center"> <img src="Notebooks/plots/sealion_vs_surfer.png" align="middle" width=400>
 </p>
-...
+
 [More plots in my Notebook](https://github.com/katjawittfoth/Data_Viz/blob/master/global_shark_attacks.ipynb)
