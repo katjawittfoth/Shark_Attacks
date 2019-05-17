@@ -18,4 +18,4 @@ If you look at the shark attacks development, especially non-fatal ones, you can
 
 ...
 
-#### See many more avrious plots and cool visuals in my Jupyter Notebook
+#### See many more various plots and cool visuals in the Jupyter Notebook.
