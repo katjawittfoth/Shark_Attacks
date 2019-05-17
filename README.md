@@ -32,4 +32,4 @@ Another interesting fact is that sharks are getting confused and overwhelmed by 
 
 ...
 
-#### See many more various plots and cool visuals in the Jupyter Notebook.
+#### See many more various plots and cool visuals  incl. code in the Jupyter Notebook.
