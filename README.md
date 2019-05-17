@@ -4,7 +4,7 @@ Data Visualization Final Project: Shark Attack Data
 I'm analyzing shark attacks data from [Global Shark Attack File](http://www.sharkattackfile.net/)
 
 #### See full story with many more various plots and cool visuals:
-* [Notebook with interactive Plotly charts and code](https://github.com/katjawittfoth/Data_Viz/blob/master/global_shark_attacks.ipynb)
+* [Notebook with interactive Plotly charts and code](https://nbviewer.jupyter.org/github/katjawittfoth/Data_Viz/blob/master/Notebooks/Shark%20Attacks.ipynb)
 
 * [Analysis](https://github.com/katjawittfoth/Data_Viz/blob/master/shark_attacks_story.pdf)
 
@@ -29,4 +29,4 @@ Another interesting fact is that sharks are getting confused and overwhelmed by 
 <p align="center"> <img src="Notebooks/plots/sealion_vs_surfer.png" align="middle" width=400>
 </p>
 
-[More plots in my Notebook](https://github.com/katjawittfoth/Data_Viz/blob/master/global_shark_attacks.ipynb)
+[More plots in my Notebook](https://nbviewer.jupyter.org/github/katjawittfoth/Data_Viz/blob/master/Notebooks/Shark%20Attacks.ipynb)
