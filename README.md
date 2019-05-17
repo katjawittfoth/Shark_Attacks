@@ -1,6 +1,6 @@
 Data Visualization Final Project: Shark Attack Data
 
-# How dangerous are sharks? Is all the fear people have justified?
+# How dangerous are sharks?
 I'm analyzing shark attacks data from [Global Shark Attack File](http://www.sharkattackfile.net/)
 
 #### See full story with many more various plots and cool visuals:
