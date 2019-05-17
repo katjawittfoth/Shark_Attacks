@@ -9,6 +9,13 @@ Most people are afraid of sharks, and there's a misconception that if you are in
 I am using shark attack incidents dataset from Kaggle: 
 https://www.kaggle.com/teajay/global-shark-attacks. This data was compiled by the Global Shark Attack File. 
 
+Let’s take a look at the general development of shark attacks from 1900 to 2017.
 <p align="center">
 	<img src="plots/scatterplot_attacks_1900-2017.png" align="middle">
 </p>
+We can see that shark attacks are increasing, though the fatal attacks are staying at the same level throughout the century, at about average of 9.2 number of fatal attacks globally per year. This number doesn’t change much by decade either.
+If you look at the shark attacks development, especially non-fatal ones, you can see a peak around 1960. The peak happens in the USA and Australia, driven by surfing starting to get popular in the 60s.
+
+...
+
+#### See many more avrious plots and cool visuals in my Jupyter Notebook
