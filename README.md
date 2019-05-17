@@ -32,4 +32,4 @@ Another interesting fact is that sharks are getting confused and overwhelmed by 
 
 ...
 
-#### See many more various plots and cool visuals  incl. code in the Jupyter Notebook.
+#### See many more various plots and cool visuals  incl. code in [my Jupyter Notebook](https://github.com/katjawittfoth/Data_Viz/blob/master/global_shark_attacks.ipynb) or [PDF](https://github.com/katjawittfoth/Data_Viz/blob/master/shark_attacks_story.pdf) for a full story.
