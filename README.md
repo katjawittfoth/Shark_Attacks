@@ -16,14 +16,14 @@ Most people are afraid of sharks, and there's a misconception that if you are in
 Generally, shark attacks are increasing, though the fatal attacks are staying at the same level throughout the century. 
 You can see a peak of attacks around 1960. The peak happens in the USA and Australia, driven by surfing starting to get popular in the 60s.
 
-We know that sharks hunt at dawn and dusk. If sharks prey on humans, we should see a peak of attacks around dusk and dawn.
+<br> We know that sharks hunt at dawn and dusk. If sharks prey on humans, we should see a peak of attacks around dusk and dawn.
 <p align="center"> <img src="plots/histogram_attacks_by_time.png" align="middle">
 </p>
 Not true! Obviously, humans are not part of sharks’ diet and the attacks happen when people are enjoying the beach time.
 
 <p align="center"> <img src="plots/heatmap_activity.png" align="middle">
 </p>
-Surfing in the USA and Australia seems to be by far the most dangerous activity. Sharks often mistake surfers or humans splashing in the water human for prey. 
+Surfing in the USA and Australia seems to be by far the most dangerous activity. Sharks often mistake surfers or humans splashing in the water for prey. 
 Another interesting fact is that sharks are getting confused and overwhelmed by a present of dead fish, thus a large number of shark attacks are happening when people are fishing and spearfishing.
 
 ...
