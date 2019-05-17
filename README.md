@@ -1,7 +1,5 @@
-Data Visualization Final Project: Shark Attack Data
-
 # How dangerous are sharks?
-I'm analyzing shark attacks data from [Global Shark Attack File](http://www.sharkattackfile.net/)
+Data Visualization Final Project. I'm analyzing shark attacks data from [Global Shark Attack File](http://www.sharkattackfile.net/)
 
 #### See full story with many more various plots and cool visuals:
 * [Notebook with interactive Plotly charts and code](https://nbviewer.jupyter.org/github/katjawittfoth/Data_Viz/blob/master/Notebooks/Shark%20Attacks.ipynb)
