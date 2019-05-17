@@ -18,16 +18,16 @@ If you look at the shark attacks development, especially non-fatal ones, you can
 
 #### Histogram
 Sharks hunt at dawn and dusk to benefit from darkness by using not only their highly evolved sense of smell but also detecting electricity and vibrations in the water. The assumption is that if sharks prey on humans, we would see a peak of attacks around dusk and dawn.
-<p align="center"> <img src="plots/histogram_by_time.png" align="middle">
+<p align="center"> <img src="plots/histogram_attacks_by_time.png" align="middle">
 </p>
 As you can see that is not true. Obviously, humans are not part of sharks’ diet and the attacks happen when people are enjoying the beach and water time between around 10 am and 5 pm.
 
 #### Heatmap
-We have seen a peak in the shark attacks during 60’s and I assumed that it strongly correlates with the increasing popularity of surfing. Let’s analyze if it is true and what other activities people are engaged in when they are attacked by a shark. I also wanted to see a breakdown by country, thus I analyzed the top 15 countries by the count of shark attacks.
+We have seen a peak in the shark attacks during 60’s and I assumed that it strongly correlates with the increasing popularity of surfing. Let’s analyze if it is true.
 <p align="center"> <img src="plots/heatmap_activity.png" align="middle">
 </p>
 It seems that surfing in the USA and Australia is by far the most dangerous activity. 
-Sharks have been known to attack humans when they are confused or curious. Sharks often mistake surfers or a human splashing in the water human for prey. They get curious and may try to investigate.
+Sharks have been known to attack humans when they are confused or curious. Sharks often mistake surfers or humen splashing in the water human for prey. They get curious and may try to investigate.
 Another interesting fact is that sharks are getting confused and overwhelmed by a present of dead fish, thus a large number of shark attacks are happening when people are spearfishing, wading or fishing in the sharks’ territories.
 
 ...
