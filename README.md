@@ -24,5 +24,5 @@ Surfing in the USA and Australia seems to be by far the most dangerous activity.
 </p>
 
 [More plots in my Notebook](https://nbviewer.jupyter.org/github/katjawittfoth/Data_Viz/blob/master/Notebooks/Shark%20Attacks.ipynb)
-
+ 
 *Click in the top of the Notebook to toggle on/off the raw code*
