@@ -17,6 +17,7 @@ If we break all the shark attackss from 1900 till 2017 by the activity and count
 <br>
 <p align="center"> <img src="Notebooks/plots/sealion_vs_surfer.png" align="middle" width=300>
 </p>
+...
 
 [More plots in my Notebook](https://nbviewer.jupyter.org/github/katjawittfoth/Data_Viz/blob/master/Notebooks/Shark%20Attacks.ipynb)
  
