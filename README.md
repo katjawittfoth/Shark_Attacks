@@ -1,9 +1,10 @@
 # How dangerous are sharks?
 Data Visualization Final Project. I'm analyzing shark attacks data from [Global Shark Attack File](http://www.sharkattackfile.net/)
 
-See my full story: [Shark Attacks Analysis with interactive Plotly charts](https://nbviewer.jupyter.org/github/katjawittfoth/Data_Viz/blob/master/Notebooks/Shark%20Attacks.ipynb)
+## See my full story:
+[Shark Attacks Analysis with interactive Plotly charts](https://nbviewer.jupyter.org/github/katjawittfoth/Data_Viz/blob/master/Notebooks/Shark%20Attacks.ipynb)
 
-# Few insights
+## Few insights
 Most people are afraid of sharks, and there's a misconception that if you are in the water with them you are in deep trouble. The idea that sharks are killing machines preying on humans is a myth that I learned to overcome after I became an avid scuba diver. I’m often diving in the murky waters of Northern California, which is famous for its large population of White Sharks, so I wanted to learn more about real risks.
 
 <p align="center"> <img src="Notebooks/plots/scatterplot_attacks_1900-2017.png" align="middle" width=600>
@@ -17,7 +18,7 @@ If we break all the shark attackss from 1900 till 2017 by the activity and count
 <br>
 <p align="center"> <img src="Notebooks/plots/sealion_vs_surfer.png" align="middle" width=300>
 </p>
-...
+<p align="center"> . . . </p>
 
 [More plots in my Notebook](https://nbviewer.jupyter.org/github/katjawittfoth/Data_Viz/blob/master/Notebooks/Shark%20Attacks.ipynb)
  
