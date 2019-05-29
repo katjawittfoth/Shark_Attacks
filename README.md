@@ -13,7 +13,7 @@ You can see a peak of attacks around 1960. The peak happens in the USA and Austr
 
 <p align="center"> <img src="Notebooks/plots/heatmap_activity.png" align="middle" width=600>
 </p>
-Surfing in the USA and Australia seems to be by far the most dangerous activity. Sharks often mistake surfers or humans splashing in the water for prey. 
+If we break all the shark attackss from 1900 till 2017 by the activity and county, surfing in the USA and Australia seems to be by far the most dangerous activity. The reason for that is that sharks often mistake surfers or humans splashing in the water for prey. 
 <br>
 <p align="center"> <img src="Notebooks/plots/sealion_vs_surfer.png" align="middle" width=300>
 </p>
